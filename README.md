@@ -428,13 +428,6 @@ Server configuration can be modified in `fastmcp.json`:
 - [coloraide](https://github.com/Facelessuser/coloraide) (>=5.1): Advanced color manipulation library
 - [fastmcp](https://github.com/jlowin/fastmcp) (>=2.13.0.2): Fast MCP server framework
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
 
 ## Acknowledgments
 
